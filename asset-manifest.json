@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/born4you/static/css/main.91f79c03.css",
+    "main.js": "/born4you/static/js/main.b93fbee3.js",
+    "static/js/787.d3b96bdf.chunk.js": "/born4you/static/js/787.d3b96bdf.chunk.js",
+    "service-worker.js": "/born4you/service-worker.js",
+    "index.html": "/born4you/index.html",
+    "main.91f79c03.css.map": "/born4you/static/css/main.91f79c03.css.map",
+    "main.b93fbee3.js.map": "/born4you/static/js/main.b93fbee3.js.map",
+    "787.d3b96bdf.chunk.js.map": "/born4you/static/js/787.d3b96bdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91f79c03.css",
+    "static/js/main.b93fbee3.js"
+  ]
+}
